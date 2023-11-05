@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm AAthul</text>
+    <text x="15" y="27">Hi, I'm Athul</text>
   </g>
 
   <!-- typing 2 -->
@@ -296,7 +296,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am into Software Engineering and Research</text>
-    <text x="15" y="50">building things using machine learning models</text>
+    <text x="15" y="50">i love hacking and building stuff ..</text>
   </g>
 
   <!-- typing 3 -->
@@ -320,8 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Love to build</text>    
-    <text x="15" y="50">writing blogs and meaningful projects</text>
+    <text x="15" y="27">using python and rust</text>    
+    <text x="15" y="50">and writing blogs</text>
   </g>
 
 
@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Love to code</text>    
+    <text x="15" y="27">Into LLMs and other multi models </text>    
   </g>  
   
   <!-- typing 4 -->
@@ -370,7 +370,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am a software Engineer</text>
+    <text x="15" y="27">;P</text>
   </g>
 
   <!-- typing 6 -->
@@ -394,7 +394,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="365" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Building cool things using Rust and Python</text>
+    <text x="15" y="27">Dm me if you have any questions</text>
   </g>
   
 
@@ -418,6 +418,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="445" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/44thul">https://twitter.com/algo_diver</a> </text>
+    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/44thul">https://twitter.com/44thul</a> </text>
   </g>
 </svg>
