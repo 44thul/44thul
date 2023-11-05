@@ -320,8 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">using python and rust</text>    
-    <text x="15" y="50">and writing blogs</text>
+    <text x="15" y="27">using python</text>    
+    <text x="15" y="50">and rust</text>
   </g>
 
 
@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Into LLMs and other multi models </text>    
+    <text x="15" y="27">into AI and Blockchain </text>    
   </g>  
   
   <!-- typing 4 -->
